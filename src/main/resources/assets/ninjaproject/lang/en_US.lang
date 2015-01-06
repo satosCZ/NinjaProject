@@ -1,0 +1,6 @@
+itemGroup.ninjaproject=Ninja Project
+
+item.ninjaproject:kunai.name=Kunai
+item.ninjaproject:chakraIngot=Chakra Ingot
+
+tile.ninjaproject:chakraSteelBlock.name=Block of Chakra Steel

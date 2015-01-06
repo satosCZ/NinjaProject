@@ -1,0 +1,18 @@
+[
+{
+    "modid": "NinjaProject",
+    "name": "Ninja Project",
+    "description": "Become a best Ninja! Based on anime Naruto and Naruto Shippuuden.",
+    "version": "0.1",
+    "mcversion": "",
+    "url": "",
+    "updateUrl": "",
+    "authors": [
+        "satosCZ"
+        ],
+    "credits": "Coded by satosCZ",
+    "logoFile": "",
+    "screenShots": [],
+    "dependencies": []
+}
+]
